@@ -51,7 +51,8 @@ The dataset used in this analysis contains information about apps available on t
 
 ## Author
 Andrei  
-[(https://www.linkedin.com/in/andrei-neagu-30a37011a/)(https://github.com/NAndrei313)]
+https://www.linkedin.com/in/andrei-neagu-30a37011a/
+https://github.com/NAndrei313
 
 Feel free to contribute or reach out with any suggestions! 🚀
 
